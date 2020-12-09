@@ -1,5 +1,6 @@
-# Github Job Application
-    Github job api implementation in react.
+# Github Jobs Application
+
+Github jobs api implementation in react.
 
 ## Dependencies
 - Axios
