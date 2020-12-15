@@ -12,3 +12,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+img.w-28.companylogoimg {
+  object-fit: contain;
+}
+li.page-item.active .page-link{
+  background-color: #4338CA !important;
+  border: #4338CA solid 1px;
+}
